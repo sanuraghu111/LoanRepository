@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
+import java.util.Printer;
 
 public class SimpleWordCounter {
     
